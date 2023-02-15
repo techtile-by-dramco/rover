@@ -6,7 +6,7 @@
 
 
 
-## System Descrption
+## System Description
 To speed-up measurements, reduce labor-intensive tasks and mitigate human-errors, we have designed a rover
 to perform automated 3D sampling inside the testbed. The rover consists of a baseplate, hosting the processing
 unit and batteries, and a scissor lift to move the measurement equipment to the required height.
