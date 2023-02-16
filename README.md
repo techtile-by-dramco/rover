@@ -1,7 +1,7 @@
 ## Documentation
 
 - The `rpi` folder contains the Python scripts to collect the sensor readings from the sensor-reader (`Sensorcombiner.py`) and driving the motors (with the rotary encoderers).
-- The `scissor-lift` folder contains the files to talk the the scissor lift microcontrollers (Adruino Uno + custom-made shield) through Python.
+- The `scissor-lift` folder contains the files to talk the the scissor lift microcontrollers (Adruino Uno + custom-made shield) through Python. More information is included in the [docs](https://jarnevanmulders.github.io/scissor-lift-docs/).
 - The `sensor-reader`folder contains the source files for the microcontroller to read-out all sensors on the rover. This microcontroller is read-out by the RPI on the rover (as dicussed above).
 
 ## System Architecture
