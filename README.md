@@ -4,7 +4,9 @@
 - The `scissor-lift` folder contains the files to talk the the scissor lift microcontrollers (Adruino Uno + custom-made shield) through Python.
 - The `sensor-reader`folder contains the source files for the microcontroller to read-out all sensors on the rover. This microcontroller is read-out by the RPI on the rover (as dicussed above).
 
+## System Architecture
 
+![Architecture](https://user-images.githubusercontent.com/8626571/219329503-eb2ee41e-f751-48d0-a685-1a9132b9deab.png)
 
 ## System Description
 To speed-up measurements, reduce labor-intensive tasks and mitigate human-errors, we have designed a rover
